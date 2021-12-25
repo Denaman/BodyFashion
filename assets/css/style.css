@@ -29,6 +29,10 @@ h2 {
     letter-spacing: 4px;
 }
 
+#logo, #menu {
+    line-height: 75px;
+}
+
 #menu li {
     float: right;
     margin-right: 30px;
