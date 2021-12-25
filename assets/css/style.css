@@ -28,3 +28,7 @@ h2 {
     list-style-type: none;
     letter-spacing: 4px;
 }
+
+#menu li {
+    float: right;
+}
