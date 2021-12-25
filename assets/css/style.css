@@ -54,4 +54,5 @@ h2 {
 #cover-image {
     height: 600px;
     width: 100%;
+    background: url("../img/cover-img.png") no-repeat center center;
 }
