@@ -50,3 +50,8 @@ h2 {
 .active {
     border-bottom: 1px solid #555555;
 }
+
+#cover-image {
+    height: 600px;
+    width: 100%;
+}
