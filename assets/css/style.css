@@ -109,10 +109,18 @@ h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
+    background-color: green;
 }
 
 #right-use {
     padding-top: 30px;
     width: 33%;
     float: right;
+    background-color: yellow;
+}
+
+#center-use {
+    width: 33%;
+    margin: 0 auto;
+    background-color: pink;
 }
