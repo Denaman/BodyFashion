@@ -110,3 +110,9 @@ h2 {
     width: 33%;
     float: left;
 }
+
+#right-use {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
