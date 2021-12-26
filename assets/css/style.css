@@ -137,3 +137,11 @@ hr {
     clear: both;
     margin-bottom: 50px;
 }
+
+.right-use-heading {
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
