@@ -104,3 +104,9 @@ h2 {
 #why-bf {
     height: 600px;
 }
+
+#left-use {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
