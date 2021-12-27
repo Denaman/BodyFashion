@@ -120,7 +120,6 @@ h2 {
 #center-use {
     width: 33%;
     margin: 0 auto;
-    background-color: pink;
 }
 
 hr {
@@ -166,4 +165,5 @@ hr {
     border-style: solid;
     background-color: #555555;
     border-width: 1px;
+    border-radius: 50%;
 }
