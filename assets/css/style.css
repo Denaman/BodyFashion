@@ -158,3 +158,12 @@ hr {
     margin: 20px 0;
     font-size: 280%;
 }
+
+#circle-outer {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    background-color: #555555;
+    border-width: 1px;
+}
