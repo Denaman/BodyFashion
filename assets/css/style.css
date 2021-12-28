@@ -228,3 +228,35 @@ footer {
 #pictures img {
     width: 100%;
 }
+
+/*Responsiveness*/
+
+@media screen and (max-width: 1393px) {
+    #why-bf {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #sect-heading {
+        padding: 30px 0;
+        margin-top: 0;
+    }
+
+    #left-use, #right-use {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #center-use {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+}
