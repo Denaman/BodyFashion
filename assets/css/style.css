@@ -224,3 +224,7 @@ footer {
     column-count: 4;
     column-gap: 0;
 }
+
+#pictures img {
+    width: 100%;
+}
