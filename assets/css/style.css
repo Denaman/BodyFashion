@@ -284,4 +284,9 @@ footer {
     .left-use-heading, .right-use-heading {
         width: inherit;
     }
+
+    .left-use-heading h2, .right-use-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
 }
