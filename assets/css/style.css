@@ -274,4 +274,10 @@ footer {
     #cover-text {
         left: 0px;
     }
+
+    #why-bf {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
 }
