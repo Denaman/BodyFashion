@@ -270,6 +270,7 @@ footer {
     hr {
         display: none;
     }
+
 }
 
 @media screen and (max-width:943px) {
@@ -303,5 +304,16 @@ footer {
     .left-use-heading p, .right-use-heading p {
         text-align: center;
         padding: 0 20px 0 20px;
+    }
+
+    #pictures {
+        column-count: 3;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+    #pictures {
+        column-count: 2;
     }
 }
