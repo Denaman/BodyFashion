@@ -234,6 +234,12 @@ footer {
     background-color: transparent;
 }
 
+.container-fluid {
+    overflow: hidden;
+}
+
+
+
 /*Media Queries*/
 
 @media screen and (max-width: 1393px) {
