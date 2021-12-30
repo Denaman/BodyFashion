@@ -238,6 +238,11 @@ footer {
     overflow: hidden;
 }
 
+#contact-form {
+    margin: 0 auto;
+    width: 50%;
+    }
+
 
 
 /*Media Queries*/
@@ -325,5 +330,16 @@ footer {
 @media screen and (max-width: 800px) {
     #pictures {
         column-count: 2;
+    }
+}
+
+/*Contact Form*/
+
+@media screen and (min-width: 992px) {
+    #center-form {
+        padding-top: 10px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
     }
 }
