@@ -1,3 +1,11 @@
+<h1>BodyFashion</h1>
+
+
+<img src="assets/img/cover-img.png" style="margin: 0;">
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Denaman,
