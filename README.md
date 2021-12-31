@@ -3,6 +3,7 @@
 
 <img src="assets/img/cover-img.png" style="margin: 0;">
 
+
 <a href="https://denaman.github.io/BodyFashion/">BODYFASHION</a> is my first milestone project as a "Full Stack" Software Development student of the <a href="https://codeinstitute.net/">Code Institute</a>. It is the launch of a series of 
 projects that are intended to showcase my skills and credentials for potential employers or collaborators to access.
 
