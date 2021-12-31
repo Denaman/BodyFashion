@@ -1,116 +1,98 @@
-<h1>BodyFashion</h1>
+<h1>BODYFASHION</h1>
 
 
 <img src="assets/img/cover-img.png" style="margin: 0;">
 
+<a href="https://denaman.github.io/BodyFashion/">BODYFASHION</a> is my first milestone project as a "Full Stack" Software Development student of the <a href="https://codeinstitute.net/">Code Institute</a>. It is the launch of a series of 
+projects that are intended to showcase my skills and credentials for potential employers or collaborators to access.
+
+<h2>UX</h2>
+
+BODYFASHION, an acronym YOUR BODY AND FASHION, is a website for those who want to build their bodies to fit nicely in their clothes. It is based on the premise that the foundation of fashion is the physique.
+Site users see the advantages of taking proper care of their body in order to look cute in their clothes as well as feel healthy.
+BODYFASHION showcases a beautiful gallery of members who are benefitting from the state of the art gymnasium, professional trainers / advisers and other services BODYFASHION offers.
+
+## Features
+
+Pages: Home, About Us, Gallery, Contact Us.
+ 
+### Existing Features
+- Home - Introduces users to the various ways BODYFASHION will help them get in shape.
+- About Us - Informs users of the benefits of keeping in shape.
+- Gallery - Displays photos of BODYFASHION members, equipments and facility.
+- Contact Us - Provides a platform (contact form) for users to reach out to BODYFASHION, including a Google Map.
+
+### Features left to implement
+- Feature- A page or part of the Home page to display the dates and times for specific training purposes.
+
+## Technologies Used
+- [Hyper Text Markup Language (HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - The project uses **HTML** as the language to produce the web pages.
+
+- [Cascading Style Sheet (CSS)](https://www.w3.org/Style/CSS/Overview.en.html)
+    - The project uses **CSS** to style the various elements on the web pages, including coloration, spacing, fonts / layout sizes and the likes.
+
+- [Bootstrap](https://https://getbootstrap.com/)
+    - The project uses **Bootstrap,** a frontend development framework fro creating responsive web designs.
+    https://getbootstrap.com/
+
+- [Gitpod](https://www.gitpod.io/)
+    - The project uses **Gitpod,** an Integrated Development Environment (IDE). Also used in creating and saving codes.
+
+- [GitHub]( https://github)
+    - The project uses **GitHub,** a Microsoft subsidiary that provides a platform for collaboration and hosting for software development version control using Git.
+
+- [Git](https://git-scm.com/)
+    - The project uses **Git,** a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people..
+
+- [W3C Markup Validation Service](https://validator.w3.org/)
+    - The project uses **W3C** to validate the HTML and CSS codes. https://jigsaw.w3.org/css-validator/validator
+
+- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
+    - The project uses **Chrome Dev Tools** a set of Web Developer Tools built directly into the Google chrome browser.
+
+- [Photoshop](https://photoshop.com)
+    - The project uses **Photoshop** to edit images.
+
+    
+## Testing
+
+- The project uses <a href="http://ami.responsivedesign.is/">**Am I responsive**</a> to test the responsiveness of the website on different Apple devices.
+  All pages, icons and links functioned as expected on all devices.
+
+- All pages, links and icons displayed and functioned as expected when tested on different browsers, including all viewport sizes.
+
+- All pages icons and links performed well on all mobile devices via safari and chrome.
+  
+- **Contact form:** All the functionality of the form, such as "error message," "required field," "Invalid email," and "success message," performed nicely.
 
 
+## Deployment
 
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+### GitHub Pages
+The project was deployed to GitHub Pages using the following steps...
 
-Welcome Denaman,
+- Log in to GitHub and locate the <a href="https://github.com/">**GitHub Repository.**</a>
+- At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+- Scroll down the Settings page until you locate the "GitHub Pages" Section.
+- Under "Source", click the dropdown called "None" and select "Master Branch".
+- The page will automatically refresh.
+- All pages icons and links performed well on all mobile devices via safari and chrome.
+- Scroll back down through the page to locate the now published site <a href="https://denaman.github.io/GymFash/">**link**</a>  in the "GitHub Pages" section.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## Credits
 
-## Gitpod Reminders
+### Content
+- Text: **Original**.
+<br>
+- HTML /CSS code: **Bootstrap**.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+### Media
+- Photos: <a href="https://www.gettyimages.co.uk/"> **gettyimages**</a> 
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
+## Acknowledgements
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+I thank the Code Institue team, including members of the Slack community for providing me a platform to learn a new skill and for guiding me towards the successful completion of my project.
